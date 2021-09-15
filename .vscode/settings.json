@@ -12,8 +12,9 @@
           }
     ],
     "java.project.sourcePaths": [
-      "Week_02",
       "Week_01",
-      "Week_03"
+      "Week_02",
+      "Week_03",
+      "Week_04"
     ]
 }

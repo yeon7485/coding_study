@@ -48,7 +48,6 @@ public class StringCompression {
     }
 
 
-
     public static void main(String[] args) {
         StringCompression sc = new StringCompression();
 
