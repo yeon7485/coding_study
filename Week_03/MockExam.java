@@ -1,3 +1,5 @@
+// Lv.1 - 모의고사
+
 import java.util.Arrays;
 
 public class MockExam {
@@ -6,25 +8,15 @@ public class MockExam {
         int[] stu1 = {1, 2, 3, 4, 5};
         int[] stu2 = {2, 1, 2, 3, 2, 4, 2 ,5};
         int[] stu3 = {3, 3, 1, 1, 2, 2, 4, 4, 5, 5};
-        int index1 = 0, index2 = 0, index3 = 0;
         int score1 = 0, score2 = 0, score3 = 0;
         int max = 0;
         String stu = "";
 
 
         for(int i = 0; i < answers.length; i++){
-            if(stu1[index1] == answers[i]) score1++;
-            if(stu2[index2] == answers[i]) score2++;
-            if(stu3[index3] == answers[i]) score3++;
-
-            index1++;
-            index2++;
-            index3++;
-
-            //맨 끝까지 갔으면 인덱스 0으로 초기화
-            if(index1 == stu1.length) index1 = 0;
-            if(index2 == stu2.length) index2 = 0;
-            if(index3 == stu3.length) index3 = 0;
+            if(stu1[i % 5] == answers[i]) score1++;
+            if(stu2[i % 8] == answers[i]) score2++;
+            if(stu3[i % 10] == answers[i]) score3++;
         }
 
         //가장 큰 점수 구하기

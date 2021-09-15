@@ -1,3 +1,5 @@
+// Lv.1 - 직사각형 별 찍기
+
 import java.util.*;
 
 public class SquareStar {

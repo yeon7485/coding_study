@@ -1,3 +1,5 @@
+// Lv.1 - 체육복
+
 import java.util.*;
 
 public class GymSuit {

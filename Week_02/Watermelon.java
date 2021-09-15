@@ -1,3 +1,5 @@
+// Lv.1 - 수박수박수박수박수박수?
+
 public class Watermelon {
     String solution(int n) {
         String answer = "";
