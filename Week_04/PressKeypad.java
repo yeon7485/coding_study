@@ -65,8 +65,8 @@ public class PressKeypad {
         }
 
         // 몇 칸 가야되는지 거리 구해주기
-        dl = (l / 3) + (l % 3); // 1 + 1
-        dr = (r / 3) + (r % 3); // 0 + 1
+        dl = (l / 3) + (l % 3); 
+        dr = (r / 3) + (r % 3); 
 
         if (dl > dr)
             hand = "R";
