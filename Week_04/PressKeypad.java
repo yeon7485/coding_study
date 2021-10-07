@@ -8,10 +8,7 @@ public class PressKeypad {
         int right = 12;
         String c = "";
 
-        if (hand.equals("left"))
-            h = "L";
-        else
-            h = "R";
+        h = (hand.equals("left")) ? "L":"R";
 
         for (int n : numbers) {
             // 가운데 열일 때
@@ -48,10 +45,7 @@ public class PressKeypad {
         int num; // 누르려는 버튼
         int l, r, dl, dr;
 
-        num = n;
-        if (n == 0) {
-            num = 11;
-        }
+        num = (n == 0) ? 11 : n;
 
         // 누르려는 버튼과의 차이
         l = Math.abs(left - num);
