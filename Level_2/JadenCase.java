@@ -10,7 +10,6 @@ public class JadenCase{
 
             if(idx == 0 && ch != ' '){
                 answer += String.valueOf(ch).toUpperCase();
-
                 idx++;
             }
             else if(ch == ' '){
@@ -21,7 +20,6 @@ public class JadenCase{
                 answer += String.valueOf(ch).toLowerCase();
             }
         }
-        
         return answer;
     }
 
