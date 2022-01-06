@@ -1,5 +1,3 @@
-import java.util.concurrent.ThreadPoolExecutor.AbortPolicy;
-
 // LV.1 - 음양 더하기
 
 public class pro_76501 {
