@@ -2,7 +2,7 @@
 
 import java.util.HashMap;
 
-public class NumEngWord {
+public class pro_81301 {
     public int solution(String s) {
         int answer = 0;
         String[] engWord = {"zero", "one", "two", "three","four","five","six","seven","eight","nine"};
@@ -34,7 +34,7 @@ public class NumEngWord {
     }
 
     public static void main(String[] args){
-        NumEngWord ne = new NumEngWord();
+        pro_81301 ne = new pro_81301();
 
         System.out.println(ne.solution("one4seveneight"));
         System.out.println(ne.solution("23four5six7"));
