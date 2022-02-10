@@ -1,280 +1,287 @@
 {
-    // IntelliSense를 사용하여 가능한 특성에 대해 알아보세요.
-    // 기존 특성에 대한 설명을 보려면 가리킵니다.
-    // 자세한 내용을 보려면 https://go.microsoft.com/fwlink/?linkid=830387을(를) 방문하세요.
-    "version": "0.2.0",
-    "configurations": [
-        {
-            "type": "java",
-            "name": "Launch pro_12935",
-            "request": "launch",
-            "mainClass": "pro_12935",
-            "projectName": "coding_study_17fafef3"
-        },
-        {
-            "type": "java",
-            "name": "Launch pro_12977",
-            "request": "launch",
-            "mainClass": "pro_12977",
-            "projectName": "coding_study_17fafef3"
-        },
-        {
-            "type": "java",
-            "name": "Launch pro_12940",
-            "request": "launch",
-            "mainClass": "pro_12940",
-            "projectName": "coding_study_17fafef3"
-        },
-        {
-            "type": "java",
-            "name": "Launch pro_12939",
-            "request": "launch",
-            "mainClass": "pro_12939",
-            "projectName": "coding_study_17fafef3"
-        },
-        {
-            "type": "java",
-            "name": "Launch pro_12943",
-            "request": "launch",
-            "mainClass": "pro_12943",
-            "projectName": "coding_study_17fafef3"
-        },
-        {
-            "type": "java",
-            "name": "Launch pro_92334",
-            "request": "launch",
-            "mainClass": "pro_92334",
-            "projectName": "coding_study_17fafef3"
-        },
-        {
-            "type": "java",
-            "name": "Launch Current File",
-            "request": "launch",
-            "mainClass": "${file}"
-        },
-        {
-            "type": "java",
-            "name": "Launch Average",
-            "request": "launch",
-            "mainClass": "Average",
-            "projectName": "coding_study_17fafef3"
-        },
-        {
-            "type": "java",
-            "name": "Launch BetweenSum",
-            "request": "launch",
-            "mainClass": "BetweenSum",
-            "projectName": "coding_study_17fafef3"
-        },
-        {
-            "type": "java",
-            "name": "Launch BiggestNumber",
-            "request": "launch",
-            "mainClass": "BiggestNumber",
-            "projectName": "coding_study_17fafef3"
-        },
-        {
-            "type": "java",
-            "name": "Launch Budget",
-            "request": "launch",
-            "mainClass": "Budget",
-            "projectName": "coding_study_17fafef3"
-        },
-        {
-            "type": "java",
-            "name": "Launch ClawMachineGame",
-            "request": "launch",
-            "mainClass": "ClawMachineGame",
-            "projectName": "coding_study_17fafef3"
-        },
-        {
-            "type": "java",
-            "name": "Launch EatLand",
-            "request": "launch",
-            "mainClass": "EatLand",
-            "projectName": "coding_study_17fafef3"
-        },
-        {
-            "type": "java",
-            "name": "Launch GymSuit",
-            "request": "launch",
-            "mainClass": "GymSuit",
-            "projectName": "coding_study_17fafef3"
-        },
-        {
-            "type": "java",
-            "name": "Launch HarshadNumber",
-            "request": "launch",
-            "mainClass": "HarshadNumber",
-            "projectName": "coding_study_17fafef3"
-        },
-        {
-            "type": "java",
-            "name": "Launch JadenCase",
-            "request": "launch",
-            "mainClass": "JadenCase",
-            "projectName": "coding_study_17fafef3"
-        },
-        {
-            "type": "java",
-            "name": "Launch Kth_Number",
-            "request": "launch",
-            "mainClass": "Kth_Number",
-            "projectName": "coding_study_17fafef3"
-        },
-        {
-            "type": "java",
-            "name": "Launch LeastCommonMultiple",
-            "request": "launch",
-            "mainClass": "LeastCommonMultiple",
-            "projectName": "coding_study_17fafef3"
-        },
-        {
-            "type": "java",
-            "name": "Launch MidWord",
-            "request": "launch",
-            "mainClass": "MidWord",
-            "projectName": "coding_study_17fafef3"
-        },
-        {
-            "type": "java",
-            "name": "Launch MockExam",
-            "request": "launch",
-            "mainClass": "MockExam",
-            "projectName": "coding_study_17fafef3"
-        },
-        {
-            "type": "java",
-            "name": "Launch NextBigNumber",
-            "request": "launch",
-            "mainClass": "NextBigNumber",
-            "projectName": "coding_study_17fafef3"
-        },
-        {
-            "type": "java",
-            "name": "Launch NotFinishPlayer",
-            "request": "launch",
-            "mainClass": "NotFinishPlayer",
-            "projectName": "coding_study_17fafef3"
-        },
-        {
-            "type": "java",
-            "name": "Launch NumEngWord",
-            "request": "launch",
-            "mainClass": "NumEngWord",
-            "projectName": "coding_study_17fafef3"
-        },
-        {
-            "type": "java",
-            "name": "Launch PhoneNumList",
-            "request": "launch",
-            "mainClass": "PhoneNumList",
-            "projectName": "coding_study_17fafef3"
-        },
-        {
-            "type": "java",
-            "name": "Launch Phone_Number",
-            "request": "launch",
-            "mainClass": "Phone_Number",
-            "projectName": "coding_study_17fafef3"
-        },
-        {
-            "type": "java",
-            "name": "Launch Phonekatmon",
-            "request": "launch",
-            "mainClass": "Phonekatmon",
-            "projectName": "coding_study_17fafef3"
-        },
-        {
-            "type": "java",
-            "name": "Launch PressKeypad",
-            "request": "launch",
-            "mainClass": "PressKeypad",
-            "projectName": "coding_study_17fafef3"
-        },
-        {
-            "type": "java",
-            "name": "Launch SkillTree",
-            "request": "launch",
-            "mainClass": "SkillTree",
-            "projectName": "coding_study_17fafef3"
-        },
-        {
-            "type": "java",
-            "name": "Launch SquareStar",
-            "request": "launch",
-            "mainClass": "SquareStar",
-            "projectName": "coding_study_17fafef3"
-        },
-        {
-            "type": "java",
-            "name": "Launch StrangeString",
-            "request": "launch",
-            "mainClass": "StrangeString",
-            "projectName": "coding_study_17fafef3"
-        },
-        {
-            "type": "java",
-            "name": "Launch StringCompression",
-            "request": "launch",
-            "mainClass": "StringCompression",
-            "projectName": "coding_study_17fafef3"
-        },
-        {
-            "type": "java",
-            "name": "Launch SumMatrix",
-            "request": "launch",
-            "mainClass": "SumMatrix",
-            "projectName": "coding_study_17fafef3"
-        },
-        {
-            "type": "java",
-            "name": "Launch Watermelon",
-            "request": "launch",
-            "mainClass": "Watermelon",
-            "projectName": "coding_study_17fafef3"
-        },
-        {
-            "type": "java",
-            "name": "Launch X_Number",
-            "request": "launch",
-            "mainClass": "X_Number",
-            "projectName": "coding_study_17fafef3"
-        },
-        {
-            "type": "java",
-            "name": "Launch Year2016",
-            "request": "launch",
-            "mainClass": "Year2016",
-            "projectName": "coding_study_17fafef3"
-        },
-        {
-            "type": "java",
-            "name": "Launch pro_70128",
-            "request": "launch",
-            "mainClass": "pro_70128",
-            "projectName": "coding_study_17fafef3"
-        },
-        {
-            "type": "java",
-            "name": "Launch pro_72410",
-            "request": "launch",
-            "mainClass": "pro_72410",
-            "projectName": "coding_study_17fafef3"
-        },
-        {
-            "type": "java",
-            "name": "Launch pro_76501",
-            "request": "launch",
-            "mainClass": "pro_76501",
-            "projectName": "coding_study_17fafef3"
-        },
-        {
-            "type": "java",
-            "name": "Launch pro_77484",
-            "request": "launch",
-            "mainClass": "pro_77484",
-            "projectName": "coding_study_17fafef3"
-        }
-    ]
+  // IntelliSense를 사용하여 가능한 특성에 대해 알아보세요.
+  // 기존 특성에 대한 설명을 보려면 가리킵니다.
+  // 자세한 내용을 보려면 https://go.microsoft.com/fwlink/?linkid=830387을(를) 방문하세요.
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch pro_86051",
+      "request": "launch",
+      "mainClass": "pro_86051",
+      "projectName": "coding_study_17fafef3"
+    },
+    {
+      "type": "java",
+      "name": "Launch pro_12935",
+      "request": "launch",
+      "mainClass": "pro_12935",
+      "projectName": "coding_study_17fafef3"
+    },
+    {
+      "type": "java",
+      "name": "Launch pro_12977",
+      "request": "launch",
+      "mainClass": "pro_12977",
+      "projectName": "coding_study_17fafef3"
+    },
+    {
+      "type": "java",
+      "name": "Launch pro_12940",
+      "request": "launch",
+      "mainClass": "pro_12940",
+      "projectName": "coding_study_17fafef3"
+    },
+    {
+      "type": "java",
+      "name": "Launch pro_12939",
+      "request": "launch",
+      "mainClass": "pro_12939",
+      "projectName": "coding_study_17fafef3"
+    },
+    {
+      "type": "java",
+      "name": "Launch pro_12943",
+      "request": "launch",
+      "mainClass": "pro_12943",
+      "projectName": "coding_study_17fafef3"
+    },
+    {
+      "type": "java",
+      "name": "Launch pro_92334",
+      "request": "launch",
+      "mainClass": "pro_92334",
+      "projectName": "coding_study_17fafef3"
+    },
+    {
+      "type": "java",
+      "name": "Launch Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Launch Average",
+      "request": "launch",
+      "mainClass": "Average",
+      "projectName": "coding_study_17fafef3"
+    },
+    {
+      "type": "java",
+      "name": "Launch BetweenSum",
+      "request": "launch",
+      "mainClass": "BetweenSum",
+      "projectName": "coding_study_17fafef3"
+    },
+    {
+      "type": "java",
+      "name": "Launch BiggestNumber",
+      "request": "launch",
+      "mainClass": "BiggestNumber",
+      "projectName": "coding_study_17fafef3"
+    },
+    {
+      "type": "java",
+      "name": "Launch Budget",
+      "request": "launch",
+      "mainClass": "Budget",
+      "projectName": "coding_study_17fafef3"
+    },
+    {
+      "type": "java",
+      "name": "Launch ClawMachineGame",
+      "request": "launch",
+      "mainClass": "ClawMachineGame",
+      "projectName": "coding_study_17fafef3"
+    },
+    {
+      "type": "java",
+      "name": "Launch EatLand",
+      "request": "launch",
+      "mainClass": "EatLand",
+      "projectName": "coding_study_17fafef3"
+    },
+    {
+      "type": "java",
+      "name": "Launch GymSuit",
+      "request": "launch",
+      "mainClass": "GymSuit",
+      "projectName": "coding_study_17fafef3"
+    },
+    {
+      "type": "java",
+      "name": "Launch HarshadNumber",
+      "request": "launch",
+      "mainClass": "HarshadNumber",
+      "projectName": "coding_study_17fafef3"
+    },
+    {
+      "type": "java",
+      "name": "Launch JadenCase",
+      "request": "launch",
+      "mainClass": "JadenCase",
+      "projectName": "coding_study_17fafef3"
+    },
+    {
+      "type": "java",
+      "name": "Launch Kth_Number",
+      "request": "launch",
+      "mainClass": "Kth_Number",
+      "projectName": "coding_study_17fafef3"
+    },
+    {
+      "type": "java",
+      "name": "Launch LeastCommonMultiple",
+      "request": "launch",
+      "mainClass": "LeastCommonMultiple",
+      "projectName": "coding_study_17fafef3"
+    },
+    {
+      "type": "java",
+      "name": "Launch MidWord",
+      "request": "launch",
+      "mainClass": "MidWord",
+      "projectName": "coding_study_17fafef3"
+    },
+    {
+      "type": "java",
+      "name": "Launch MockExam",
+      "request": "launch",
+      "mainClass": "MockExam",
+      "projectName": "coding_study_17fafef3"
+    },
+    {
+      "type": "java",
+      "name": "Launch NextBigNumber",
+      "request": "launch",
+      "mainClass": "NextBigNumber",
+      "projectName": "coding_study_17fafef3"
+    },
+    {
+      "type": "java",
+      "name": "Launch NotFinishPlayer",
+      "request": "launch",
+      "mainClass": "NotFinishPlayer",
+      "projectName": "coding_study_17fafef3"
+    },
+    {
+      "type": "java",
+      "name": "Launch NumEngWord",
+      "request": "launch",
+      "mainClass": "NumEngWord",
+      "projectName": "coding_study_17fafef3"
+    },
+    {
+      "type": "java",
+      "name": "Launch PhoneNumList",
+      "request": "launch",
+      "mainClass": "PhoneNumList",
+      "projectName": "coding_study_17fafef3"
+    },
+    {
+      "type": "java",
+      "name": "Launch Phone_Number",
+      "request": "launch",
+      "mainClass": "Phone_Number",
+      "projectName": "coding_study_17fafef3"
+    },
+    {
+      "type": "java",
+      "name": "Launch Phonekatmon",
+      "request": "launch",
+      "mainClass": "Phonekatmon",
+      "projectName": "coding_study_17fafef3"
+    },
+    {
+      "type": "java",
+      "name": "Launch PressKeypad",
+      "request": "launch",
+      "mainClass": "PressKeypad",
+      "projectName": "coding_study_17fafef3"
+    },
+    {
+      "type": "java",
+      "name": "Launch SkillTree",
+      "request": "launch",
+      "mainClass": "SkillTree",
+      "projectName": "coding_study_17fafef3"
+    },
+    {
+      "type": "java",
+      "name": "Launch SquareStar",
+      "request": "launch",
+      "mainClass": "SquareStar",
+      "projectName": "coding_study_17fafef3"
+    },
+    {
+      "type": "java",
+      "name": "Launch StrangeString",
+      "request": "launch",
+      "mainClass": "StrangeString",
+      "projectName": "coding_study_17fafef3"
+    },
+    {
+      "type": "java",
+      "name": "Launch StringCompression",
+      "request": "launch",
+      "mainClass": "StringCompression",
+      "projectName": "coding_study_17fafef3"
+    },
+    {
+      "type": "java",
+      "name": "Launch SumMatrix",
+      "request": "launch",
+      "mainClass": "SumMatrix",
+      "projectName": "coding_study_17fafef3"
+    },
+    {
+      "type": "java",
+      "name": "Launch Watermelon",
+      "request": "launch",
+      "mainClass": "Watermelon",
+      "projectName": "coding_study_17fafef3"
+    },
+    {
+      "type": "java",
+      "name": "Launch X_Number",
+      "request": "launch",
+      "mainClass": "X_Number",
+      "projectName": "coding_study_17fafef3"
+    },
+    {
+      "type": "java",
+      "name": "Launch Year2016",
+      "request": "launch",
+      "mainClass": "Year2016",
+      "projectName": "coding_study_17fafef3"
+    },
+    {
+      "type": "java",
+      "name": "Launch pro_70128",
+      "request": "launch",
+      "mainClass": "pro_70128",
+      "projectName": "coding_study_17fafef3"
+    },
+    {
+      "type": "java",
+      "name": "Launch pro_72410",
+      "request": "launch",
+      "mainClass": "pro_72410",
+      "projectName": "coding_study_17fafef3"
+    },
+    {
+      "type": "java",
+      "name": "Launch pro_76501",
+      "request": "launch",
+      "mainClass": "pro_76501",
+      "projectName": "coding_study_17fafef3"
+    },
+    {
+      "type": "java",
+      "name": "Launch pro_77484",
+      "request": "launch",
+      "mainClass": "pro_77484",
+      "projectName": "coding_study_17fafef3"
+    }
+  ]
 }
