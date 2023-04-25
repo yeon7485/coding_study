@@ -3,16 +3,17 @@
     "java.configuration.runtimes": [
         {
             "name": "JavaSE-1.8",
-            "path": "C:\\Program Files\\Java\\jdk1.8.0_241", // 기존 1.8 JDK SE
-          },
-          {
+            "path": "C:\\Program Files\\Java\\jdk1.8.0_241" // 기존 1.8 JDK SE
+        },
+        {
             "name": "JavaSE-14",
             "path": "D:\\Eclipse Foundation\\jdk-11.0.12.7-hotspot", // Open JDK 14 SE
             "default": true
-          }
+        }
     ],
-    "java.project.sourcePaths": [
-      "Level_1",
-      "Level_2"
-    ]
+    "java.project.sourcePaths": ["Level_1", "Level_2"],
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter"
+    },
+    "python.formatting.provider": "none"
 }
